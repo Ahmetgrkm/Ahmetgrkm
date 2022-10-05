@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ahmetgrkm
 - 👀 I’m interested in siber
 - 🌱 I’m currently learning python,c++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmetgrkm1076@gmail.com
 
 <!---
