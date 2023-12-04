@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @Ahmetgrkm  
 - 👀 I’m interested in siber
-- 🌱 I’m currently learning css,php,javascript
+- 🌱 I’m currently learning css,php laravel,c,c++,python,flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmetgrkm1076@gmail.com
 
